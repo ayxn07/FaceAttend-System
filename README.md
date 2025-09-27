@@ -460,5 +460,3 @@ pip install -r requirements.txt
 # 4) Run
 python app.py
 ```
-
-That’s it! If you want, I can also generate a ready-to-commit `README.md` and a `requirements.txt` file content for your repo.
